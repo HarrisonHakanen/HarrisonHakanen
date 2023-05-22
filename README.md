@@ -2,7 +2,7 @@
 
 <div>
 <span class="text">
-Sou recém formado em sistemas de informação pela Universidade Positivo, aaaaaaamo tecnologia e agora estou procurando migrar de carreira para me tornar um desenvolvedor. Sempre procuro fazer cursos e me especializar, então você ainda vai ver muitos projetos meus aqui!
+Sou recém formado em sistemas de informação pela Universidade Positivo, aaaaaaamo tecnologia e agora estou procurando migrar de carreira para me tornar um desenvolvedor. Sempre procuro fazer cursos e me especializar, então você ainda vai ver muitos projetos meus aqui! Para me conhecer um pouco melhor é só rolar pra baixo (e caso você seja um recrutador, meu linkedin está lá embaixo 😆).
 </span>
 </div>
 
