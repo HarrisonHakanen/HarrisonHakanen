@@ -1,6 +1,10 @@
 ### Olá me chamo Harrison Hakanen!
 
-### Sou recém formado em sistemas de informação pela Universidade Positivo, aaaaaaamo tecnologia e agora estou procurando migrar de carreira para me tornar um desenvolvedor. Sempre procuro fazer cursos e me especializar, então você ainda vai ver muitos projetos meus aqui!
+<div>
+<span class="text">
+Sou recém formado em sistemas de informação pela Universidade Positivo, aaaaaaamo tecnologia e agora estou procurando migrar de carreira para me tornar um desenvolvedor. Sempre procuro fazer cursos e me especializar, então você ainda vai ver muitos projetos meus aqui!
+</span>
+</div>
 
 
 ### Tecnologias que domino
