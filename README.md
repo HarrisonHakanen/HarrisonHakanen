@@ -1,6 +1,6 @@
 ### Olá me chamo Harrison Hakanen!
 
-### Linkedin >>> [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)]
+### Linkedin >>> [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/HarrisonHakanen)
 
 ### Tecnologias que domino
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
